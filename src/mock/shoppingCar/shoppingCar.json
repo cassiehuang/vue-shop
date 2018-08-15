@@ -1,0 +1,58 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "list": [
+    {
+      "shopName": "海阔天空",
+      "orderList": [
+        {
+          "title": "PISN 高贵冷淡 四色不对称开叉高领百搭针织打底衫加厚套头毛衣女",
+          "num": 1,
+          "desc": "白色 M",
+          "img": "http://img.hb.aicdn.com/fb6ead1fc62c7f7db28df465d22da988af834ac51ab6d-dW4cQL_fw65",
+          "price": "￥229"
+        },
+        {
+          "title": "PISN 高贵冷淡 四色不对称开叉高领百搭针织打底衫加厚套头毛衣女",
+          "num": 2,
+          "desc": "白色 S",
+          "img": "http://img.hb.aicdn.com/fb6ead1fc62c7f7db28df465d22da988af834ac51ab6d-dW4cQL_fw65",
+          "price": "￥229"
+        }
+      ],
+      "shopCoupon": "￥19",
+      "doubanCoupon": "￥10",
+      "resultPrice": "￥212"
+    },
+    {
+      "shopName": "服装小天地",
+      "orderList": [
+        {
+          "title": "PISN 高贵冷淡 四色不对称开叉高领百搭针织打底衫加厚套头毛衣女",
+          "num": 1,
+          "desc": "白色 M",
+          "img": "http://img.hb.aicdn.com/fb6ead1fc62c7f7db28df465d22da988af834ac51ab6d-dW4cQL_fw65",
+          "price": "￥229"
+        }
+      ],
+      "shopCoupon": "￥19",
+      "doubanCoupon": "￥10",
+      "resultPrice": "￥212"
+    },
+    {
+      "shopName": "零食屋",
+      "orderList": [
+        {
+          "title": "PISN 高贵冷淡 四色不对称开叉高领百搭针织打底衫加厚套头毛衣女",
+          "num": 1,
+          "desc": "白色 M",
+          "img": "http://img.hb.aicdn.com/fb6ead1fc62c7f7db28df465d22da988af834ac51ab6d-dW4cQL_fw65",
+          "price": "￥229"
+        }
+      ],
+      "shopCoupon": "￥19",
+      "doubanCoupon": "￥10",
+      "resultPrice": "￥212"
+    }
+  ]
+}

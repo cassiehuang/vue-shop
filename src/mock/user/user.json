@@ -1,0 +1,10 @@
+{
+  "code": "0",
+  "message": "请求成功",
+  "user": {
+    "userId": 10001,
+    "userName": "cassie",
+    "token": "ehdgrldidsvfdk",
+    "avatar": "http://img.hb.aicdn.com/fb6ead1fc62c7f7db28df465d22da988af834ac51ab6d-dW4cQL_fw65"
+  }
+}

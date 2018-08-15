@@ -1,0 +1,98 @@
+{
+  "code": "0",
+  "message": "请求成功！",
+  "info": {
+    "id": 3567009,
+    "shop_id":9834,
+    "sliderList": [
+      "http://img.hb.aicdn.com/fb6ead1fc62c7f7db28df465d22da988af834ac51ab6d-dW4cQL_fw658",
+      "http://img.hb.aicdn.com/d05f3d1043aa061ebda037c5519c1e6f7aa7dca91006b-v42ZvN_fw658",
+      "http://img.hb.aicdn.com/fb6ead1fc62c7f7db28df465d22da988af834ac51ab6d-dW4cQL_fw658",
+      "http://img.hb.aicdn.com/d72fb99e7f4d4137bf86dd34e4acdc542d6f91b71319d-nUoKaq_fw658"
+    ],
+    "title": "PISN 高贵冷淡 四色不对称开叉高领百搭针织打底衫加厚套头毛衣女",
+    "newPrice": "￥229",
+    "oldPrice": "￥299",
+    "sendPrice": "￥9",
+    "color": ["白色", "紫色", "黑色"],
+    "size": ["S", "M", "L", "XL"],
+    "details": [
+      "http://img.hb.aicdn.com/fb6ead1fc62c7f7db28df465d22da988af834ac51ab6d-dW4cQL_fw658",
+      "http://img.hb.aicdn.com/d05f3d1043aa061ebda037c5519c1e6f7aa7dca91006b-v42ZvN_fw658",
+      "http://img.hb.aicdn.com/fb6ead1fc62c7f7db28df465d22da988af834ac51ab6d-dW4cQL_fw658",
+      "http://img.hb.aicdn.com/d72fb99e7f4d4137bf86dd34e4acdc542d6f91b71319d-nUoKaq_fw658"
+    ],
+    "grade": {
+      "average": 4.2,
+      "best": 7,
+      "good": 5,
+      "notbad": 10,
+      "bad": 2,
+      "awful": 1
+    },
+    "commits": [
+      {
+        "icon":
+          "http://img.hb.aicdn.com/924928b815ab55bf4c43406762ffd72ea9a7cd6d1b334-wXMA3w_sq320",
+        "name": "海阔天空",
+        "time": "2018-09-09",
+        "star": 3,
+        "commit":
+          "买的亚麻短裤，感觉板型、做工都还可以的，上身也比较舒适，就是不知道水洗后怎样~总体感觉性价比挺高"
+      },
+      {
+        "icon":
+          "http://img.hb.aicdn.com/924928b815ab55bf4c43406762ffd72ea9a7cd6d1b334-wXMA3w_sq320",
+        "name": "海阔天空",
+        "time": "2018-09-09",
+        "star": 3,
+        "image": [
+          "http://img.hb.aicdn.com/1d1653d2e21480f422b54e74937ded7905c286e52c514-NF8ISn_fw658"
+        ],
+        "commit":
+          "买的亚麻短裤，感觉板型、做工都还可以的，上身也比较舒适，就是不知道水洗后怎样~总体感觉性价比挺高"
+      },
+      {
+        "icon":
+          "http://img.hb.aicdn.com/924928b815ab55bf4c43406762ffd72ea9a7cd6d1b334-wXMA3w_sq320",
+        "name": "海阔天空",
+        "time": "2018-09-09",
+        "star": 3,
+        "commit":
+          "买的亚麻短裤，感觉板型、做工都还可以的，上身也比较舒适，就是不知道水洗后怎样~总体感觉性价比挺高"
+      },
+      {
+        "icon":
+          "http://img.hb.aicdn.com/924928b815ab55bf4c43406762ffd72ea9a7cd6d1b334-wXMA3w_sq320",
+        "name": "海阔天空",
+        "time": "2018-09-09",
+        "star": 3,
+        "image": [
+          "http://img.hb.aicdn.com/1d1653d2e21480f422b54e74937ded7905c286e52c514-NF8ISn_fw658",
+          "http://img.hb.aicdn.com/1d1653d2e21480f422b54e74937ded7905c286e52c514-NF8ISn_fw658",
+          "http://img.hb.aicdn.com/1d1653d2e21480f422b54e74937ded7905c286e52c514-NF8ISn_fw658"
+        ],
+        "commit":
+          "买的亚麻短裤，感觉板型、做工都还可以的，上身也比较舒适，就是不知道水洗后怎样~总体感觉性价比挺高"
+      },
+      {
+        "icon":
+          "http://img.hb.aicdn.com/924928b815ab55bf4c43406762ffd72ea9a7cd6d1b334-wXMA3w_sq320",
+        "name": "海阔天空",
+        "time": "2018-09-09",
+        "star": 3,
+        "commit":
+          "买的亚麻短裤，感觉板型、做工都还可以的，上身也比较舒适，就是不知道水洗后怎样~总体感觉性价比挺高"
+      },
+      {
+        "icon":
+          "http://img.hb.aicdn.com/924928b815ab55bf4c43406762ffd72ea9a7cd6d1b334-wXMA3w_sq320",
+        "name": "海阔天空",
+        "time": "2018-09-09",
+        "star": 3,
+        "commit":
+          "买的亚麻短裤，感觉板型、做工都还可以的，上身也比较舒适，就是不知道水洗后怎样~总体感觉性价比挺高"
+      }
+    ]
+  }
+}
